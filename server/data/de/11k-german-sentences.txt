@@ -1,7 +1,7 @@
 Ich habe da mal was vorbereitet.
 Los geht's!
 Schlagt bitte euren Atlas auf.
-Wie wir hier sehen können, hat diese Landkarte einen Maßstab von 1:100000.
+Wie wir hier sehen können, hat diese Landkarte einen Maßstab von eins zu einhunderttausend.
 Kein Fluss der Welt durchfließt so viele Länder wie die Donau.
 Am Freitag wird im Stadtwald Räuber Hotzenplotz aufgeführt.
 Der Schwarzwald ist ein wichtiger Touristenmagnet.
@@ -15,11 +15,11 @@ Solange soll ich für sie den Briefkasten leeren und die Blumen gießen.
 Mit dieser Technik ist heutzutage kein Blumentopf mehr zu gewinnen.
 Alkohol ist keine Lösung sondern ein Destillat.
 Der nächste Service-Mitarbeiter ist für Sie reserviert.
-Die durchschnittliche Wartezeit beträgt derzeit 35 Minuten.
-Rufen Sie uns an unter 0180-511-722.
-Unsere Hotline kostet 12 Cent pro Minute aus dem deutschen Festnetz.
+Die durchschnittliche Wartezeit beträgt derzeit fünfunddreißig Minuten.
+Rufen Sie uns an unter Null Einhundertachtzig Fünfhundertelf Siebenhundertzweiundzwanzig.
+Unsere Hotline kostet zwölf Cent pro Minute aus dem deutschen Festnetz.
 Mobilfunkpreise können abweichen.
-Zu Risiken und Nebenwirkungen lesen Sie die Packungsbeilage und Fragen Sie Ihren Arzt oder Apotheker.
+Zu Risiken und Nebenwirkungen lesen Sie die Packungsbeilage und fragen Sie Ihren Arzt oder Apotheker.
 Ihr beide seht euch total ähnlich, seid ihr Geschwister?
 Wir sind Zwillinge.
 Hast du mal eine Feile oder ein Stück Schmirgelpapier?
@@ -29,7 +29,7 @@ Stecker sollten niemals am Kabel aus der Steckdose gezogen werden.
 Planfeststellungsverfahren ist doch ein wunderbares deutsches Wort.
 Die Sache hat allerdings einen Haken.
 Wenn du das Handtuch so aufhängst, wird es morgen immer noch nicht trocken sein.
-Heute gibt es "Asterix bei Kleopatra" im Fernsehen.
+Heute gibt es "Asterix und Kleopatra" im Fernsehen.
 Auf Kika läuft gerade "Jim Knopf und Lukas der Lokomotivführer".
 Geschrieben von Michael Ende und gespielt von der Augsburger Puppenkiste.
 Als Kind hatte ich alle Folgen vom Sams auf Kassette.
@@ -45,7 +45,7 @@ Statt für ein Regal habe ich mich für eine Vitrine entschieden, weil sich dari
 Das war noch zu Zeiten von Kaiser Wilhelm.
 Madagaskar hat einen wunderschönen Soundtrack, der im Film leider kaum zur Geltung kommt.
 Das neue Informatikgebäude wurde nach Konrad Zuse benannt.
-Geographischer und magnetischer Nordpol der Erde sich nicht am gleichen Ort.
+Geographischer und magnetischer Nordpol der Erde befinden sich nicht am gleichen Ort.
 Tatsächlich ist der magnetische Nordpol der Erde sogar auf der Südhalbkugel.
 Wenn wir schon am Bodensee sind, dann lasst uns eine Fahrt im Zeppelin unternehmen.
 Am 6. Dezember kommt der Nikolaus.
@@ -60,14 +60,14 @@ Wie war's in Amsterdam?
 Es ist nun doch Liverpool geworden.
 Hast du auch eine Quelle für deine Behauptungen?
 Die Filmmusik wurde von Hans Zimmer komponiert.
-Blut spenden darf nur, wer mindestens 50 Kilogramm wiegt.
+Blut spenden darf nur, wer mindestens fünfzig Kilogramm wiegt.
 Wie findest du die Vorlesungen bei Professor Diercke?
 Heinrich sagte, er möchte Nachrichtensprecher werden.
 Vorfreude ist die schönste Freude.
 Was nicht passt, wird passend gemacht.
 Bitte füttern Sie die Wildschweine nicht!
 Wir sind eine Hafenstadt, kein Kasperletheater!
-Es wäre für alle hilfreich, wenn wir weniger emotional an das Thema herangehen würden.
+Es wäre für alle hilfreich, wenn wir weniger emotional an das Thema herangingen.
 Lasset uns beten.
 Axel hat bei seinem Opa im Keller ein altes Grammophon gefunden.
 Die Lehrerin trug Markus ins Klassenbuch ein.
@@ -97,20 +97,20 @@ Gaius Julius Cäsar kannte sie jedoch noch nicht.
 Wir wohnen zwar in Bochum, haben aber ein Ferienhaus im Sauerland, wo wir viele Wochenenden verbringen.
 Ludwig van Beethoven ist einer der Söhne der Stadt Bonn.
 In Duisburg kann man heute noch alte Hochöfen aus den Siebzigern besichtigen.
-Heute spielt Schalke gegen Hannover 96 und zwar in Gelsenkirchen.
+Heute spielt Schalke gegen Hannover Sechsundneunzig und zwar in Gelsenkirchen.
 Chemnitz war früher ein bedeutendes Wirtschaftszentrum der DDR.
 Theodora hat uns den Christkindlesmarkt in Nürnberg empfohlen.
 Die Gleise zwischen München und Innsbruck müssen noch ausgebaut werden, bevor der Brennerbasistunnel fertig wird.
 Von Salzburg ist es doch nicht weit bis zum Chiemsee.
 Die Müritz ist der größte See, der komplett innerhalb der Bundesrepublik liegt.
-Auf der A5 nördlich von Basel stauen sich häufig die LKW vor der Schweizer Grenze.
-Freiburg im Breisgau gilt als relativ Fahrrad-freundliche Stadt.
+Auf der A5 – nördlich von Basel – stauen sich häufig die LKW vor der Schweizer Grenze.
+Freiburg im Breisgau gilt als relativ fahrradfreundliche Stadt.
 Ich bezweifle, dass dieses Gesetz in Karlsruhe als verfassungsgemäß anerkannt wird.
 Warum wollen eigentlich alle ausländischen Touristen nach Heidelberg?
 Das ZDF hat seinen Hauptsitz in Mainz.
 "Sylt ist mir einfach zu teuer", argumentierte Paula.
 Die Form seines Kiels ist entscheidend für die Kursstabilität eines Schiffes.
-Au weia, das gibt mindestens drei Punkte in Flensburg.
+Auweia, das gibt mindestens drei Punkte in Flensburg.
 Ab wann muss man zum Idiotentest?
 Keine Ahnung.
 Aus Schiffslänge und Form der Nase lässt sich die mögliche Höchstgeschwindigkeit berechnen.
@@ -129,7 +129,7 @@ In Greifswald erforscht das Max-Planck-Institut die Kernfusionsanlage Wendelstei
 Der Energiebedarf der Welt wäre mit erneuerbaren Energien nicht zu decken, wenn der Pro-Kopf-Verbrauch überall so hoch wie in Europa wäre.
 Mecklenburg-Vorpommern ist das ländlichste aller Bundesländer.
 Nordrhein-Westfalen ist ein krasser Gegensatz dazu.
-Wenn Peter mit dem Auto durch Hessen fährt, hört er meistens hr3.
+Wenn Peter mit dem Auto durch Hessen fährt, hört er meistens hr-drei.
 Wer nach Rheinland-Pfalz zieht, ist selbst schuld, wenn er den Straßenkarneval aushalten muss.
 Im Saarland muss jeder Schüler französisch lernen.
 Baden-Württemberg ist sehr wirtschaftsstark.
@@ -139,7 +139,7 @@ Martha hat sich übel verletzt.
 Ich werde mit dem Fernbus direkt am ZOB in Ulm ankommen.
 Das ist direkt neben dem Hauptbahnhof.
 Kannst du mir aus dem Stegreif sagen, wer Rosa Luxemburg war?
-Nach einem Unfall am Dreieck Würzburg-West staut sich der Verkehr in Richtung Norden auf 2 km Länge.
+Nach einem Unfall am Dreieck Würzburg-West staut sich der Verkehr in Richtung Norden auf zwei Kilometer Länge.
 Eine Umleitung ist ausgeschildert.
 Ist Gustav der Bruder von Hauke?
 Gibt es hier Feuerquallen?
@@ -151,7 +151,7 @@ Viktor, kennst du Abgeordnetenwatch?
 Mein Mixer hat den Geist aufgegeben.
 Ein elektrisches Rührgerät darf in keiner Küche fehlen.
 Frage doch mal Friedrich, ob er das nicht reparieren kann.
-Die heutigen Billigprodukte bestehen doch quasi zu 100 Prozent aus Plastik.
+Die heutigen Billigprodukte bestehen doch quasi zu einhundert Prozent aus Plastik.
 Kannst du bitte die Untertitel ausschalten?
 Wo ist denn die Fernbedienung?
 Ida ist mal wieder mit ihrer Familie und mit Leopold am Gardasee.
@@ -161,7 +161,7 @@ Warum wird Kerosin nicht wie normales Benzin besteuert?
 Zacharias ließ jetzt ein höhnisches Lachen erklingen.
 Ich mag es nicht, wenn Programme ihr Design ändern, nur weil das alte nicht mehr modern war.
 Da muss man immer umlernen.
-Bitte sage nicht Kalorien, wenn du Kilokalorien meinst, das ist ein Unterschied um den Faktor 1000.
+Bitte sage nicht Kalorien, wenn du Kilokalorien meinst, das ist ein Unterschied um den Faktor Tausend.
 Ein wenig Dankbarkeit wäre angebracht.
 Warte mal, ich glaube mein Akku ist fast leer.
 So wird das nichts.
@@ -185,7 +185,7 @@ Wir haben einen Drängler hinter uns.
 Und ein weiteres Elefantenrennen.
 Der Trabi blockiert die ganze Zeit die linke Spur.
 Der junge Mann dort hat uns freundlicherweise vorgelassen.
-Lassen Sie mich durch, ich bin Arzt.
+Lassen Sie mich durch, ich bin Arzt!
 Ich habe es wirklich sehr eilig.
 Zeit ist Geld.
 Aus dem Weg!
@@ -202,8 +202,8 @@ Rate mal, was ich auf dem Dachboden gefunden habe.
 Der Schalter hat wohl einen Wackelkontakt.
 Zum Glück habe ich Enteisungsspray für das Türschloss dabei.
 Mein Auto springt nicht mehr an.
-Der Halter des Fahrzeugs mit dem Kennzeichen HH-AB-123 möchte sich bitte im Sekretariat melden.
-Führerschein und Fahrzeugpapiere, bitte.
+Der Halter des Fahrzeugs mit dem Kennzeichen HH-AB-einhundertdreiundzwanzig möchte sich bitte im Sekretariat melden.
+Führerschein und Fahrzeugpapiere, bitte!
 Dies ist eine allgemeine Verkehrskontrolle.
 Haben Sie Alkohol getrunken oder Drogen konsumiert?
 Sie können entweder einmal pusten oder ich nehme Sie mit auf die Wache und wir machen eine Blutentnahme.
@@ -222,17 +222,18 @@ Haben wir ein Ersatzrad dabei?
 Nein, aber Flickzeug.
 Kannst du das?
 Ich habe es bei der Bundeswehr gelernt.
-Ich dachte da lernt man nur saufen.
+Ich dachte da lernt man nur Saufen.
 Das Nummernschild kommt mir bekannt vor.
 Hast du Durst?
 Kann ich dir etwas zu trinken anbieten?
 Die Fernlichtautomatik ist mir zu träge.
 Bei Regen funktioniert der Spurhalteassistent nicht.
-Der Totwinkelwarner arbeitet nur bei Geschwindigkeiten unter 150 Stundenkilometern.
+Der Totwinkelwarner arbeitet nur bei Geschwindigkeiten unter einhundertfünfzig Stundenkilometern.
 Die Zeit ist abgelaufen.
 Es ist vorbei.
 Der Unfall war nicht mehr zu verhindern.
-Versuche ja nicht zu fliehen.
+Versuche ja nicht zu fliehen!
+Ich versuche ja nicht zu fliehen.
 Mach mal die Mucke lauter.
 Vor dir habe ich keine Angst.
 Du bist spät dran.
@@ -272,9 +273,9 @@ Nimm deine Flossen da weg!
 Kann ich das irgendwie wieder gut machen?
 Das ist mir zu kompliziert.
 Aber genau darum geht es doch.
-Wir haben den falschen.
+Wir haben den Falschen.
 Viel Glück dabei!
-Du hast mich vom Anfang bis zum Ende belogen.
+Du hast mich von Anfang bis Ende belogen.
 Es tut mir leid.
 Klar doch.
 Ja, das habe ich auch schon versucht, aber das bringt nichts.
@@ -344,13 +345,13 @@ Beim Fahrstuhl im alten Elbtunnel kann man sehr schön sehen, wie sich zu jeder 
 Der Seemann nahm das Tau in die Hand, um es am Schiffspoller festzumachen.
 Alle Matrosen sind an Deck, Herr Kapitän.
 Wer in der Nordsee baden geht, sollte an Ebbe und Flut denken.
-Mehr Tangos auf 6 Uhr.
+Mehr Tangos auf sechs Uhr.
 Es ist halb Acht.
 Wie spät ist es?
 Wir treffen uns um viertel vor Zwölf.
-Kannst du auch um dreiviertel Eins?
-Zwanzig nach Neun würde mir besser passen.
-Um viertel Drei bin ich mit Frauke verabredet.
+Kannst du auch um dreiviertel eins?
+Zwanzig nach neun würde mir besser passen.
+Um viertel drei bin ich mit Frauke verabredet.
 Bernhard macht heute Dienst nach Vorschrift.
 Im Anhang befindet sich noch die Gesamtbetriebsvereinbarung und die IT-Benutzungsordnung.
 Wie sieht es mit Gleitzeit aus?
@@ -419,7 +420,7 @@ Schwester Jutta bitte zur Notaufnahme, Schwester Jutta bitte.
 Guten Tag, ich möchte meinen Sohn Kevin aus dem Bällebad abholen.
 Lass uns die Katze Findus nennen.
 Sie wurden als Gefährder eingestuft und bekommen jetzt eine elektronische Fußfessel.
-Als er auf die Uhr sah, stellte Jan fest, dass er eine halbe Stunde mit dem lesen der Kommentare verplempert hatte.
+Als er auf die Uhr sah, stellte Jan fest, dass er eine halbe Stunde mit dem Lesen der Kommentare verplempert hatte.
 Morgenstund' hat Gold im Mund.
 Einem geschenkten Gaul schaut man nicht ins Maul.
 Dieses Lernpensum ist auf Dauer nicht auszuhalten.
@@ -430,10 +431,10 @@ Nächstes Wochenende ist Zeitumstellung.
 Obwohl sich längst alle einig sind, dass man die Sommerzeit wieder abschaffen sollte, tut man es nicht.
 Der Laptop von Erik hat Hitzeprobleme.
 Pass auf, ich gebe dir meine Handynummer, dann kannst du mich später anrufen.
-Bitte schalten Sie alle ihre Mobiltelefon aus.
+Bitte schalten Sie alle Ihr Mobiltelefon aus.
 Übermorgen kommt Onkel Bernd zu Besuch.
 Ende August ist die Ostsee schön warm.
-Am 11. November wird es einen traditionellen Sankt-Martins-Umzug im Dorf geben, mit allem was dazu gehört.
+Am elften November wird es einen traditionellen Sankt-Martins-Umzug im Dorf geben, mit allem was dazu gehört.
 Also mit Reiter, Martinsgans, Laternen und den entsprechenden Liedern.
 Für die Eltern gibt es Glühwein und für die Kinder Kinderpunsch.
 Jeder Wähler hat das Recht, sich die Auszählung anzusehen.
@@ -446,7 +447,7 @@ Herr Peters will ein Auto ohne überflüssigen Schnickschnack.
 Wenn sich der derzeitige Trend fortsetzt, werden wir nie autonome Fahrzeuge haben, lediglich ferngesteuerte Autos.
 Lars zögerte kurz, dann ging er auf die junge Dame zu und bat sie um einen Tanz.
 Ob Björn jemals lernen wird, wie man sich eine Krawatte bindet?
-Dem Navi zufolge werden wir um 20:07 Uhr da sein.
+Dem Navi zufolge werden wir um zwanzig Uhr sieben da sein.
 Denk daran, der Wagen hat noch keine Winterreifen drauf.
 Darf ich mich bei dir auf den Gepäckträger setzen?
 Hier kann man sehr schön die Bremsschwerter sehen.
@@ -485,15 +486,15 @@ Leider sind die Verhandlungen im Sand verlaufen.
 Helgoland wird von unseren Windkraftmonteuren oft als Zwischenstation genutzt.
 Wir würden die Offshore-Windkraft gerne schneller ausbauen.
 Mit dem Fernglas kann man oft Seehunde auf dieser Sandbank sehen.
-Von der Watt- bis zur Brandungsseite sind es mit dem Fahrrad nur etwa 15 Minuten.
+Von der Watt- bis zur Brandungsseite sind es mit dem Fahrrad nur etwa fünfzehn Minuten.
 Von diesem Aussichtspunkt kann man das gesamte Tal überblicken.
 Für heute Nacht wird ein Gewitter vorhergesagt.
-Die Surfschule beginnt bereits um 8 Uhr.
+Die Surfschule beginnt bereits um acht Uhr.
 Links, zwo, drei, vier!
 Meiner Meinung nach ist das einer der schönsten Wasserfälle Tirols.
 Darf ich euch ein Stück Kuchen anbieten?
 Unter den zerkratzten Tischen kleben unfassbar viele Kaugummis.
-Warum einfach wenn es auch kompliziert geht?
+Warum einfach, wenn es auch kompliziert geht?
 Heute Nachmittag gehe ich schon mit Florian angeln.
 Du zappelst wie ein Fisch, nur dass du nicht so glitschig bist.
 Die Behörden warnen davor, zugefrorene Seen zu betreten.
@@ -510,12 +511,12 @@ Das kannst du laut sagen.
 Was tut man gegen Maulwürfe im Garten?
 Der Herbst beschert uns jedes Jahr eine bunte Blätterpracht.
 Die beiden sind irgendwie ein süßes Paar.
-Sehr verehrte Fahrgäste, der Regionalexpress nach Paderborn fährt heute abweichend vom Fahrplan auf Gleis 3 ein.
-Unsere derzeitige Verspätung beträgt 5 Minuten, es werden aber alle Anschlusszüge erreicht.
+Sehr verehrte Fahrgäste, der Regionalexpress nach Paderborn fährt heute abweichend vom Fahrplan auf Gleis drei ein.
+Unsere derzeitige Verspätung beträgt fünf Minuten, es werden aber alle Anschlusszüge erreicht.
 Nächster Halt: Jungfernstieg.
 Übergang zu allen U- und S-Bahnlinien sowie zum Regional- und Fernverkehr.
 Guten Tag, die Fahrscheine bitte.
-Außerdem möchte ich Sie noch auf unser Bordrestaurant in Wagen 4 aufmerksam machen.
+Außerdem möchte ich Sie noch auf unser Bordrestaurant in Wagen vier aufmerksam machen.
 Sammeln Sie Treuepunkte?
 Kennen Sie schon unser Premium-Plus-Sparpaket?
 Ihre aufgebrachte Einstellung wird die Sache kein bisschen beschleunigen.
@@ -562,7 +563,7 @@ Leuchtdioden sind vielleicht moderner aber nicht wesentlich effizienter als Natr
 Wir haben Probleme mit der Hydraulik.
 Kollege Schulz kümmert sich bereits darum.
 Eigentlich waren alle recht entspannt.
-Aufgrund der Bauarbeiten im Audimax findet die Vorlesung in den Hörsälen 1 und 2 statt.
+Aufgrund der Bauarbeiten im Audimax findet die Vorlesung in den Hörsälen eins und zwei statt.
 Bitte teilen Sie sich einigermaßen gleichmäßig auf die Übungsgruppen auf.
 Denken Sie nochmal darüber nach, wer wirklich Ihre Zielgruppe ist.
 Wahnsinn, diese Beschleunigung!
@@ -575,7 +576,7 @@ Ich habe meine Brille vergessen.
 Kennen wir uns nicht vom Volleyball?
 Entschuldigen Sie, diese Plätze sind reserviert.
 Lassen Sie uns über Ihre Kindheit reden.
-Markus ist erst 30 und hat bereits eine Glatze.
+Markus ist erst dreißig und hat bereits eine Glatze.
 Stefan, hast du am Mittwoch Zeit?
 Wir wäre es mit Samstag?
 Als die Betrüger den Enkeltrick bei meiner Oma versucht haben, hat sie genau richtig gehandelt.
@@ -640,9 +641,9 @@ Medikamente, die ins Abwasser gelangen, sind ein Problem für die Umwelt.
 Frau Schmidt hat sich die Nase gestoßen.
 Kannst du mir einen Kugelschreiber leihen?
 Bleistifte enthalten schon lange kein Blei mehr, sondern Graphit.
-Der Häftling aus Zelle 102 wird in eine andere Justizvollzugsanstalt verlegt.
+Der Häftling aus Zelle einhundertzwei wird in eine andere Justizvollzugsanstalt verlegt.
 Wurden die Angehörigen schon informiert?
-Das Leben ist kein  Ponyhof.
+Das Leben ist kein Ponyhof.
 Soll ich dir einen Bauernzopf flechten?
 Willst du mich auf den Arm nehmen?
 Dann kann er sich schon einmal ein Stück Seife mit Kordel besorgen.
@@ -656,8 +657,8 @@ Aus Gründen des Grundwasserschutzes sollte Fracking hier verboten werden.
 Hier beginnt ein Naturschutzgebiet.
 Das Insektensterben ist schlecht für die Landwirtschaft.
 Die Sparkasse wird gerade überfallen.
-Die nächste Sitzung beginnt erst um 15 Uhr.
-Hier müssen Sie unterschreiben
+Die nächste Sitzung beginnt erst um fünfzehn Uhr.
+Hier müssen Sie unterschreiben.
 Ich muss gar nichts.
 Die verdächtige Person kooperiert nicht.
 Ich zähle jetzt bis drei.
@@ -690,7 +691,7 @@ Der geht aufs Haus.
 Die Glocken läuten im Viertelstundentakt.
 Dieser Kleintransporter sieht verdächtig aus.
 Mal ein ganz anderes Thema.
-Am 15. Mai findet ein Seifenkistenrennen statt.
+Am fünfzehnten Mai findet ein Seifenkistenrennen statt.
 Erich möchte teilnehmen.
 Gewöhnen Sie sich bitte an, die Dokumente in einem offenen und standardisierten Format zu speichern.
 Für diesen Zweck habe ich mir ein Skript geschrieben.
@@ -719,7 +720,7 @@ Kennst du das Lagerfeuerlied von SpongeBob?
 Hier gibt es viele Handtaschendiebe, also seien Sie wachsam.
 Lassen Sie sich nicht von Fremden in Gespräche verwickeln.
 Dort können Sie die Bank nicht hinstellen, weil Sie sonst den Notausgang versperren.
-Der Nebel war so dicht, dass Steven seine eigenen Hände kaum noch sehen konnte.
+Der Nebel war so dicht, dass Steffen seine eigenen Hände kaum noch sehen konnte.
 Dies ist ein sehr bekanntes Beispiel einer optischen Täuschung.
 Nachts ist der Schalter der Steckdosenleiste die einzige Lichtquelle in meinem Zimmer.
 Ein Steg aus Holz führt vom Ufer ins Wasser.
@@ -747,14 +748,14 @@ Wenn ein Blinker ausfällt, blinkt der andere mit doppelter Frequenz, damit der 
 Die meisten Kosenamen sind einfach nur peinlich.
 Ihr Köter hat mein Kind angefallen.
 Er würde keiner Fliege was zu Leide tun.
-Warum hat dein PC keine RJ45-Buchse?
+Warum hat dein PC keine RJ-fünfundvierzig-Buchse?
 Der Dozent hat die Folien noch nicht hochgeladen.
 Während seines Vortrages verschränkte er die Arme, was einen unprofessionellen Eindruck machte.
 Die Variablen können beliebig vertauscht werden.
 Aus Zeitgründen möchte ich an dieser Stelle nicht zu sehr ins Detail gehen.
 Interessierte Zuhörer kann ich an meine Kollegen an der FH verweisen.
 Das Garagentor schließt sich elektrisch.
-Für große x konvergiert die Funktion gegen 0.
+Für große x konvergiert die Funktion gegen null.
 Die Scharfschützen sind in Position.
 Peter trommelte mit den Fingern nervös auf seinem Knie herum.
 Martin spricht einfach, wie ihm der Mund gewachsen ist.
@@ -772,13 +773,13 @@ Es juckt wie Sau.
 Finn, reichst du mir bitte den Nudelsalat?
 Der Pastor erklärt den Kindern, was es mit dem Erntedankfest auf sich hat.
 Man könnte die Einnahmen einer Zuckersteuer verwenden, um gesunde Lebensmittel zu subventionieren.
-Der Tunnelbau wird vom Bund mit 100 Millionen Euro bezuschusst.
+Der Tunnelbau wird vom Bund mit einhundert Millionen Euro bezuschusst.
 Die paar Groschen kannst du behalten.
-10 Euro? Das sind 20 Mark!
+Zehn Euro? Das sind zwanzig Mark!
 Hallo, möchten Sie auch zur Sprechstunde?
 Dann schreibe ich Sie bis zum Ende der Woche krank.
 Die Notaufnahmen von Krankenhäusern sind häufig überlastet.
-Unter der Nummer 116 117 erreicht man den kassenärztlichen Bereitschaftsdienst.
+Unter der Nummer einhundertsechzehn einhundertsiebzehn erreicht man den kassenärztlichen Bereitschaftsdienst.
 So langsam sollte sich Frederike Gedanken um ihre Altersvorsorge machen.
 Die Weihnachtsgeschichte beginnt mit einer Volkszählung.
 Du brauchst dich überhaupt nicht zu rechtfertigen.
@@ -794,7 +795,7 @@ Tanja leitet doch jetzt auch das Rückentraining am Mittwoch.
 Das ganze Jahr über interessiert sich niemand dafür, wie es anderen Menschen geht, aber an Weihnachten möchten plötzlich alle etwas spenden.
 Menschen handeln sehr oft irrational.
 Die Menge der reellen Zahl umfasst auch solche Zahlen, die sich nicht als Bruch schreiben lassen.
-Beispiele sind die Kreiszahl Pi oder die Wurzel aus 2.
+Beispiele sind die Kreiszahl Pi oder die Wurzel aus zwei.
 Grundsätzlich unterscheiden wir zwischen dem indirekten und dem induktiven Beweis.
 Jens, komm doch mal an die Tafel.
 Niemand hätte erwartet, dass er so weit gehen würde.
@@ -805,7 +806,7 @@ Ohne auch nur mit der Wimper zu zucken, hat er ihn einfach abgeknallt.
 Wie kann man sich schützen?
 Was diesen Aspekt betrifft, solltest du deinen Ansatz nochmal überdenken.
 Hat sich jetzt jeder in die Liste eingetragen?
-Ich denke mir eine Zahl zwischen 1 und 100 aus und ihr müsst sie raten.
+Ich denke mir eine Zahl zwischen eins und einhundert aus und ihr müsst sie raten.
 Wer am dichtesten dran ist, darf beginnen.
 Obacht, an der nächsten Kreuzung steht ein Blitzer.
 Durch die Zusammenlegung erhofft sich die Firmenleitung Ersparnisse in Millionenhöhe.
@@ -826,7 +827,7 @@ In der eigenen Muttersprache geht das Schreiben deutlich leichter von der Hand.
 Ich komme da nicht an.
 Kannst du mir bitte diesen Karton herunter holen?
 Susi ist zu klein.
-Patrick ist 1,90 m groß.
+Patrick ist ein Meter neunzig groß.
 Wann wird er endlich erwachsen.
 Manche Leute werden nie erwachsen.
 Sehr vernünftig von dir.
@@ -976,12 +977,12 @@ Die Vergangenheit hat gezeigt, dass Prognosen oft falsch liegen.
 Die Schufa stuft ihr genaues Berechnungsmodell als Betriebsgeheimnis ein.
 Wählt der Kunde Lastschrift als Zahlart, so prüft der Verkäufer zunächst die Bonität.
 Die Abfrage bei der Auskunftei erfolgt vollautomatisch.
-Die Rotation von Gradientenfeldern beträgt stets 0.
+Die Rotation von Gradientenfeldern beträgt stets Null.
 Hartmut, du wirst alt.
 Ich hoffe, dass ich auch im Alter nie so werde wie Erik.
 Merle macht sich auf zum Fahrradgeschäft, um einen neuen Schlauch zu kaufen.
 Die Straße gleicht einem Flickenteppich.
-He, es ist rot!
+He, es ist Rot!
 Auf der Fahrt zur Uni musste Luise mehrmals Schlaglöchern und Pfützen ausweichen.
 Das Fiese bei diesem Wetter sind die Pfützen, nicht der Regen.
 Im Nachhinein bereue ich, dass ich diese Chance nicht genutzt habe.
@@ -990,7 +991,7 @@ Durch solche Dummheiten verlieren wir jedes Mal wertvolle Zeit.
 Danke, das ist sehr aufmerksam von Ihnen.
 Handelt es sich also um eine kraftschlüssige oder formschlüssige Verbindung?
 Beim Löten verbinden sich zwei Metalle stoffschlüssig.
-Der grüne Opel fuhr bei tiefrot über die Haltelinie.
+Der grüne Opel fuhr bei Tiefrot über die Haltelinie.
 "Ich wollte testen, ob du am Stoppschild auch wirklich anhältst", erklärte der Fahrlehrer.
 "Der Röhrenfernseher war damals aber viel schwerer als heutige Flachbildschirme", gab Nicole zu bedenken.
 Beim diesjährigen Krippenspiel mussten Maria und Joseph improvisieren, weil sie den Text nicht gelernt hatten.
@@ -1001,9 +1002,9 @@ Die Feststelltaste war nämlich aktiviert.
 Dieses Fahrrad hat keine Rücktrittbremse.
 Mein Seilzug ist gerissen.
 Was ist das, ein Flaschenzug?
-Bitte senden Sie Ihre Bewerbung bis zum 31. Oktober an folgende Adresse.
+Bitte senden Sie Ihre Bewerbung bis zum einunddreißigsten Oktober an folgende Adresse.
 Riecht es hier nicht irgendwie komisch?
-Der Mann macht es falsch vor, aber wir warten auf grün.
+Der Mann macht es falsch vor, aber wir warten auf Grün.
 Das ist ein typischer Auffahrunfall.
 Mit Tempomat wird mir immer so langweilig, dass ich nicht mehr richtig aufpasse.
 Julina sucht noch einen Tanzpartner.
@@ -1023,7 +1024,7 @@ Dieses Präparat ist brandgefährlich.
 Tina weiß nicht, dass sie ein Placebo nimmt.
 Welche Wirkstoffe stehen denn auf der Packung?
 Dann ist das Medikament verschreibungspflichtig.
-Schwarzfahren kostet 60 Euro und wird in jedem Fall zur Anzeige gebracht.
+Schwarzfahren kostet sechzig Euro und wird in jedem Fall zur Anzeige gebracht.
 Trink das nicht, der Typ da hat irgendetwas reingekippt.
 Welche Tabletten nehmen Sie denn?
 Haben Sie ein Rezept?
@@ -1083,7 +1084,7 @@ Wir haben Gesellschaft!
 Die Ratten verlassen das sinkende Schiff.
 Manchmal scheint es, als wärt ihr telepathisch veranlagt.
 Auf jeden Topf passt ein Deckel.
-Außer natürlich, wenn man eins von beidem verbeult hat.
+Außer natürlich, wenn man eins von beiden verbeult hat.
 Jeder darf sich jetzt selbst überlegen, was das im übertragenen Sinne zu bedeuten hat.
 Nun veranstalte hier nicht so ein Theater.
 Dörte ist die Treppe heruntergefallen.
@@ -1111,14 +1112,14 @@ Ehrlichkeit ist wichtiger als Höflichkeit.
 Idealerweise schafft man es, sich an beides gleichzeitig zu halten.
 Nebensätze werden durch Kommata getrennt.
 Statt Kommata kann man auch Kommas sagen.
-Nachdem fast alle Ureinwohner vertrieben wurden, gestand die Regierung den verbliebenen 100 eine Entschädigung zu.
+Nachdem fast alle Ureinwohner vertrieben wurden, gestand die Regierung den verbliebenen hundert eine Entschädigung zu.
 Warum wird hier mit zweierlei Maß gemessen?
 Gerd hat keine Ahnung.
 Die Sicherheitslücke wurde nach zwei Jahren noch immer nicht geschlossen.
 Es ist keine gute Idee, alle Geräte ans Internet zu hängen.
 Keine Polizei, keine Tricks – sonst sterben die Geiseln.
 Der Einsatz von Glyphosat ist weiterhin umstritten.
-Weißt du noch, damals als wir noch jung waren?
+Weißt du noch damals, als wir noch jung waren?
 Wir alle müssen jetzt den Gürtel enger schnallen.
 "Ich kann das Geschwafel dieses sogenannten Wirtschaftsexperten nicht mehr hören", beschwerte sich Monika.
 Der Beamte griff zum Telefonhörer und wählte eine Nummer.
@@ -1150,9 +1151,9 @@ Achtung Boss, die Bullen sind im Anmarsch.
 Wir sind aufgeflogen.
 Haben wir einen Plan B?
 Ein Mann mittleren Alters schob einen Kinderwagen in den Supermarkt.
-Stellen Sie sich bitte an Kasse 3 an!
+Stellen Sie sich bitte an Kasse drei an!
 Die Schlange war sehr lang, deswegen hat es so lange gedauert.
-Das macht dann 4 Euro und 52 Cent.
+Das macht dann vier Euro und zweiundfünfzig Cent.
 Die Lichtschranke arbeitet mit einem Infrarotlaser.
 Im Gegensatz zu manchen Schlangenarten können Menschen kein Infrarotlicht wahrnehmen.
 Die Mutter steuerte bewusst eine Kasse an, an der keine Quengelware angeboten wurde.
@@ -1162,7 +1163,7 @@ Ist sie inzwischen wieder gesund?
 Was ist so schwierig daran, die Einkaufswagen ungefähr gleichmäßig auf die Reihen zu verteilen?
 Kannst du zwanzig Euro klein machen?
 Schnipp-schnapp, Finger ab.
-Wenn man die Teller direkt ins Waschbecken stellt, sind 90 % des Schmutzes bereits entfernt, bevor man mit dem eigentlichen Abwasch beginnt.
+Wenn man die Teller direkt ins Waschbecken stellt, sind neunzig Prozent des Schmutzes bereits entfernt, bevor man mit dem eigentlichen Abwasch beginnt.
 Solange das Wasser schäumt, sind noch Tenside da, die Fette binden können.
 Die schmutzigsten Sachen kommen zuletzt ins Wasser.
 Es ist so einfach, doch mein Mitbewohner wird es wohl nie lernen.
@@ -1175,7 +1176,7 @@ Dieser für den Linksverkehr gebaute Rolls-Royce ist so hoch automatisiert, dass
 Nebenbei bemerkt sind Haferflocken auch reich an Ballaststoffen.
 Aber er hat angefangen.
 Ist mir egal, wer angefangen hat.
-Ihr hört jetzt beide auf damit.
+Ihr hört jetzt beide auf damit!
 Theo zeigt gerne mit dem Finger auf andere.
 Ich würde es eher als gefährliches Halbwissen bezeichnen.
 Kaum hat mal jemand eine gute Idee, kommen die Bedenkenträger aus ihren Löchern gekrochen.
@@ -1202,7 +1203,7 @@ Nanu, was machst du denn hier?
 Der Zug ist längst abgefahren.
 Die Koreaner springen nun auch auf diesen Zug auf.
 Letztlich hat sich der Chefredakteur persönlich entschuldigt.
-Keine Widerrede, das wird sofort erledigt.
+Keine Widerrede, das wird sofort erledigt!
 Das war ein Befehl und keine Diskussionsgrundlage.
 Inzwischen sind ja auch die meisten Frauen erwerbstätig.
 Sieht aus wie eine Zuhälterkarre.
@@ -1235,7 +1236,7 @@ Das Holz war sorgfältig zum Trocknen aufgeschichtet.
 Unter dem Holzstapel versteckte sich ein Igel zum Überwintern.
 Die Holztür des Gartenhauses hatte sich von der Kälte verzogen und war deshalb kaum aufzubekommen.
 Das ist bloß Plexiglas.
-Ein paar Jugendliche haben das Dixiklo umgeworfen.
+Ein paar Jugendliche haben das Dixi-Klo umgeworfen.
 Die Idee ist so einfach wie genial.
 Wegen des Sturmes wurde eine Unwetterwarnung herausgegeben.
 Bei den Nachbarn hat der Herbststurm sogar einige Dachziegel mit sich gerissen.
@@ -1261,7 +1262,7 @@ Großes Indianerehrenwort!
 Wer es sich leisten konnte, hat sich damals mit einem Kettenhemd geschützt.
 Ein Problem mit dem proprietären Treiber verhindert, dass der Computer aus dem Standby aufwacht.
 Karl putzte nervös seine Brille, obwohl sie eigentlich sauber war.
-Laura wusste nicht genau was es war, aber etwas in ihr sagt ihr, dass es die Wahrheit ist.
+Laura wusste nicht genau, was es war, aber etwas in ihr sagte ihr, dass es die Wahrheit ist.
 Nach viel Überzeugungsarbeit bekam Jakob seine Gehaltserhöhung.
 Justus Jonas ist mein Lieblingsdetektiv.
 Lügendetektoren lassen viel mehr Interpretationsspielraum zu, als man allgemein denkt.
@@ -1290,21 +1291,21 @@ Hannelore isst kein Nutella mehr, denn es enthält Palmöl.
 Verzichten muss sie trotzdem nicht.
 Es gibt ein viel billigeres Konkurrenzprodukt, das genauso schmeckt und ohne diese Zutat auskommt.
 Aber was bewirkt der Boykott wirklich?
-Vor fünf Minuten haben wir die Schallmauer durchbrochen, jetzt nähern wir uns Mach 2.
+Vor fünf Minuten haben wir die Schallmauer durchbrochen, jetzt nähern wir uns Mach zwei.
 Wie bei Hempels unterm Sofa sieht es hier aus.
-Nach gängigen Kompressionsstandards würde etwa eine Minute Musik auf eine 3,5-Zoll-Diskette passen.
+Nach gängigen Kompressionsstandards würde etwa eine Minute Musik auf eine drei-Komma-fünf-Zoll-Diskette passen.
 Zum unterbrechungsfreien Abspielen hätte die Lesegeschwindigkeit jedoch nicht gereicht.
 Die Diskette hat sich als Symbol zum Speichern etabliert.
 Punkt, Punkt, Komma, Strich – fertig ist das Mondgesicht.
 Thorsten stockte der Atem.
-Der Weltrekord liegt bei sechs Minuten und 31,4 Sekunden.
+Der Weltrekord liegt bei sechs Minuten und einunddreißig Komma vier Sekunden.
 Damit übertrifft Müller seinen bisherigen Bestwert um fünf Zehntel.
 Anja kann sich an nichts mehr erinnern.
 Sven hat einen Filmriss.
 Seit Hangover weiß jeder, was Rohypnol ist.
 Und ab dieser Stelle habe ich wieder eine Erinnerungslücke.
 Ein starker Rückenwind macht es derzeit leicht, den Berg hinaufzufahren.
-Der Formel-1-Pilot versuchte nicht aus dem Windschatten auszubrechen.
+Der Formel-eins-Pilot versuchte nicht aus dem Windschatten auszubrechen.
 In dieser Kurve gilt ein Überholverbot für Fahrzeuge in Richtung Süden.
 Genau wie der Mensch strecken sich auch viele andere Säugetiere, wenn sie aufwachen.
 Es wäre unfair, es den anderen vorzuenthalten.
@@ -1326,11 +1327,11 @@ Das sieht mir nach einer typischen Sollbruchstelle aus.
 Bei dem blendenden Sonnenlicht war nicht zu erkennen, ob die Ampel grün oder rot war.
 Das ist schon eine beeindruckende Ingenieursleistung.
 Achte auf die Körpersprache.
-Das Audiosignal wird 44.100 mal pro Sekunde abgetastet.
+Das Audiosignal wird vierundvierzigtausendeinhundert mal pro Sekunde abgetastet.
 Wahrscheinlich handelt es sich um Quantisierungsrauschen.
 Ihre Pupillen sind geweitet.
 In der Schule haben wir mit Delphi programmiert.
-Der Duden beinhaltet über 100.000 Wörter.
+Der Duden beeinhaltet über einhunderttausend Wörter.
 Die meisten davon werden an Person, Geschlecht, Zeit, Kasus oder Numerus angepasst.
 Dadurch vervielfacht sich die Zahl.
 Man kann eine Sprache nicht durch pures Auswendiglernen meistern.
@@ -1395,12 +1396,12 @@ Das Ergebnis einer Zwillingsstudie in Belgien deutet darauf hin, dass der geneti
 Die Fertigstellung des Milliardenprojektes verschiebt sich offenbar noch weiter.
 Auch fallen die Kosten höher aus, als bislang angenommen.
 Der Verkäufer schnappte sich kurzerhand ein Maßband und hielt es an das Bett.
-Sehen Sie, genau 80 Zentimeter.
+Sehen Sie? Genau achtzig Zentimeter!
 Auf der einen Seite soll es gemütlich sein, aber andererseits möchte Katja auch genügend Licht zum Lesen haben.
-Wenn Sie das Haustelefon benutzen, müssen Sie eine 0 vorwählen, auch bei Notrufen.
+Wenn Sie das Haustelefon benutzen, müssen Sie eine Null vorwählen, auch bei Notrufen.
 Harald hat sich für eine Magenverkleinerung entschieden.
 Peer wünscht sich zum Geburtstag eine neue Grafikkarte.
-Schau mal im Handbuch nach, was Fehlercode 171 bedeutet.
+Schau mal im Handbuch nach, was Fehlercode einhunderteinundsiebzig bedeutet.
 Die Steine sind in einem Kreis angeordnet und in der Mitte steht ein Springbrunnen.
 Frau Meier war gerade dabei, den Müll herauszubringen.
 Seit vierzig Jahren trage ich diesen Namen.
@@ -1425,7 +1426,7 @@ Auch das reale Helligkeitsspektrum ist nicht kontinuierlich, weil Licht nur gequ
 Man sollte seine Informationen nicht nur aus einer Quelle beziehen, auch nicht wenn es die Tagesschau ist.
 Viele scheinbar unabhängige Quellen, berichten teilweise sogar im gleichen Wortlaut.
 Oft wird einfach nur ein Text von der deutschen Presseagentur übernommen.
-Ab 20 Uhr dürfen die öffentlich-rechtlichen Sender keine Werbung mehr zeigen.
+Ab zwanzig Uhr dürfen die öffentlich-rechtlichen Sender keine Werbung mehr zeigen.
 Kaputte Hemden sind prädestiniert dafür, sie im Winter zu tragen, wenn man sowieso etwas anderes darüber an hat.
 Wohin mit all dem Kleingeld?
 In der Cafeteria habe ich Amanda getroffen.
@@ -1444,18 +1445,18 @@ Der Kunde ist König, und das sollte er sich hin und wieder bewusst machen.
 Wenn genügend Betrunkene ihre Stimme spenden, wird die Spracherkennung auch Alkoholiker verstehen.
 Du hast eine Minute Zeit.
 Hast du was von dem Stoff dabei?
-Dennis verdient 75 Euro pro verkauftem Gramm.
+Dennis verdient fünfundsiebzig Euro pro verkauftem Gramm.
 Im Gegensatz zu Tränen und Schweiß ist Speichel nicht salzig, sonst hätte man ja auch ständig Durst.
-Sitt als Adjektiv für nicht durstig konnte sich noch immer nicht durchsetzen.
-Wenn mein Opa die Wände streicht, stellt er immer sein altes Radio auf und hört NDR 90,3.
-Es hat gekracht auf der A7, Neumünster Richtung Flensburg.
-Dadurch 4 km Stau zwischen dem Kreuz Rendsburg und Rendsburg-Büdelsdorf.
-A2, zwischen Braunschweig-Watenbüttel und Braunschweig-Hafen behindern Bergungsarbeiten den Verkehr.
+Sitt als Adjektiv für nicht-durstig konnte sich noch immer nicht durchsetzen.
+Wenn mein Opa die Wände streicht, stellt er immer sein altes Radio auf und hört NDR neunzig Komma drei.
+Es hat gekracht auf der A-sieben, Neumünster Richtung Flensburg.
+Dadurch vier km Stau zwischen dem Kreuz Rendsburg und Rendsburg-Büdelsdorf.
+A-zwei, zwischen Braunschweig-Watenbüttel und Braunschweig-Hafen behindern Bergungsarbeiten den Verkehr.
 In beide Richtungen ist nur eine Spur frei.
-Stau oder stockender Verkehr auf der A3, Würzburg Richtung Nürnberg.
-Zwischen Höchstadt-West und Erlangen-Ost brauchen Sie derzeit 20 Minuten länger.
-Und A4, Gießen Richtung Erfurt, zwischen Bad Hersfeld und Friedewald liegen Gegenstände auf der Fahrbahn.
-Auf der A8, Karlsruhe Richtung Stuttgart, zwischen Pforzheim-Nord und Pforzheim-Ost befinden sich Personen auf der Fahrbahn.
+Stau oder stockender Verkehr auf der A-drei, Würzburg Richtung Nürnberg.
+Zwischen Höchstadt-West und Erlangen-Ost brauchen Sie derzeit zwanzig Minuten länger.
+Und A-vier, Gießen Richtung Erfurt, zwischen Bad Hersfeld und Friedewald liegen Gegenstände auf der Fahrbahn.
+Auf der A-acht, Karlsruhe Richtung Stuttgart, zwischen Pforzheim-Nord und Pforzheim-Ost befinden sich Personen auf der Fahrbahn.
 Eine Umleitung ist eingerichtet.
 Umfahren Sie das Gebiet bitte weiträumig.
 Dort befindet sich noch immer eine ungesicherte Unfallstelle.
@@ -1463,19 +1464,19 @@ Die Anschlussstelle Leipzig-Mitte ist wegen Bauarbeiten gesperrt.
 In der Nähe von Passau kommt Ihnen ein Falschfahrer entgegen.
 Im ganzen Norden haben wir derzeit Temperaturen nahe dem Gefrierpunkt.
 Es ist mit Eis und Glätte zu rechnen, fahren Sie daher besonders vorsichtig.
-Das war der NDR 2 Verkehrsservice.
+Das war der NDR-zwei Verkehrsservice.
 Kommen Sie wie immer gut und sicher ans Ziel.
 "Ich weiß gar nicht, wie man die Nebelschlussleuchte einschaltet", gab Hanna zu.
-Nur Warengruppe 1 ist rabattfähig.
+Nur Warengruppe eins ist rabattfähig.
 Wenn die Lok hinter den Waggons fährt, handelt es sich genau genommen nicht mehr um einen Zug sondern um einen Schub.
 Auf dem Pannenstreifen steht ein defekter LKW.
 Wenn man Gegenstände auf die Lüftungsschlitze von elektrischen Geräten stellt, kann es passieren, dass diese überhitzen.
-"4K-Displays sind genauer als meine Augen", stellt Christian fest.
+"Vier-K-Displays sind genauer als meine Augen", stellt Christian fest.
 Sport ist Mord, aber Sportler scheinen viele Leben zu haben.
 Die Berichterstattung ist zwar nicht falsch aber unausgewogen.
 Das wäre wie ein Sechser im Lotto.
 Können Sie den Täter beschreiben?
-Er war circa 1,90 m groß und war kräftig gebaut.
+Er war circa ein Meter neunzig groß und war kräftig gebaut.
 Sein dunkles Haar war etwa schulterlang und er hatte Sommersprossen im Gesicht.
 Er trug einen Drei-Tage-Bart.
 Seine dunkle Jeans hatte er bis zu den Knien hochgekrempelt.
@@ -1503,7 +1504,7 @@ Dann ist auch der Dotter nicht mehr flüssig.
 Das Buffet ist inklusive.
 Sie haben die Auswahl zwischen Brötchen, Müsli und Rührei mit Speck.
 Als nächstes Mehl und Milch hinzugeben und gut umrühren.
-Ein Tütchen Backpulver reicht für 500 g Mehl.
+Ein Tütchen Backpulver reicht für fünfhundert Gramm Mehl.
 Ist das Brot glutenfrei?
 Nudeln kochen sehr schnell über.
 Da muss man höllisch aufpassen.
@@ -1532,8 +1533,8 @@ Bequemer als mit einem Messer geht es mit einem Apfelentkerner.
 Nehmen wir Schwein, Rind oder gemischtes Hackfleisch?
 Die Frikadellen sind angebrannt.
 Da muss Manfred arbeiten, weil verkaufsoffener Sonntag ist.
-Wer keine eigenen Schlittschuhe hat, kann sich vor Ort welche leihen.
-Die Gebühr beträgt 2 Euro pro Paar.
+Wer keine eigenes Paar Schlittschuhe hat, kann sich vor Ort eines leihen.
+Die Gebühr beträgt zwei Euro pro Paar.
 Justin hat einen Ohrwurm.
 Stefanie wollte uns einen Gnocchi-Auflauf machen.
 Lass uns noch Paprika in den Salat schnipseln.
@@ -1557,7 +1558,7 @@ Es ist zum Mäusemelken.
 Die Kräuterbutter ist selbst gemacht, stimmt's?
 Champignons, Basilikum und Olivenöl sind noch über.
 Man kann stattdessen auch Rapsöl oder Sonnenblumenöl nehmen.
-Das ist Spaghetticode vom feinsten.
+Das ist Spaghetticode vom Feinsten.
 Zum Schluss wird alles mit geriebenem Käse bestreut.
 Was sind das für Pilze?
 Kann man die essen?
@@ -1566,13 +1567,13 @@ Jetzt spiel hier nicht den Suppenkasper.
 Könnte mir bitte jemand den Honig reichen?
 Wir sind hier nicht bei Wünsch-dir-was.
 Wenn es besonders schön werden soll, garniert man es noch mit bunten Streuseln.
-Bevor du was neues anbrichst, mache zuerst die alte Packung leer.
+Bevor du was Neues anbrichst, mache zuerst die alte Packung leer.
 Mehr als eine Schüssel Reis am Tag haben die Menschen hier nicht zu essen.
-Dazu wird die Rote Bete in Scheiben geschnitten.
+Dazu wird die rote Bete in Scheiben geschnitten.
 Haben wir einen Behälter für die Walnussschale?
 Die gröbsten Brocken werden hier bereits ausgesiebt.
 Für Spiegelei braucht man eine kleine Flamme.
-Gute Frage, was kostet eine Dose Thunfisch?
+Gute Frage! Was kostet eine Dose Thunfisch?
 Es kommt nicht nur auf die Größe an.
 Hertha gab uns einen Überblick über die verschiedenen Fangmethoden.
 Welcher Bezirk ist das?
@@ -1624,8 +1625,8 @@ Der Verkäufer blickte mich skeptisch an.
 Aber psst, das ist geheim.
 "Jetzt nicht mehr", erwiderte er und griff zum Telefonhörer.
 "Sie werden doch nicht etwa", setzte ich zum Protest an, doch es war bereits zu spät.
-Buchhandlung Lupe hier, schönen Guten Tag.
-Geben Sie mir bitte den Präsidenten, wir haben ein dysfunktionales Strukturfabrikat der Pflegestufe 3.
+Buchhandlung Lupe hier, schönen guten Tag.
+Geben Sie mir bitte den Präsidenten, wir haben ein dysfunktionales Strukturfabrikat der Pflegestufe drei.
 Einen Moment lang sagte er nichts, dabei machte sich Verwunderung auf seinem Gesicht breit.
 Oh entschuldigen Sie, ich glaube, ich habe mich verwählt.
 Damit legte er auf.
@@ -1658,17 +1659,17 @@ Was ist das für ein Zeug in den Flaschen?
 Ja, das ist ein ganz erstaunliches Mittel.
 Schauen Sie mal, in diesem Buch wird die Substanz bis aufs letzte Detail erklärt.
 Er griff ins Regal und holte einen tausend Seiten dicken Schinken heraus.
-Auf dem Preisschild stand 69,99 Euro.
+Auf dem Preisschild stand neunundsechzig Euro neunundneunzig.
 Wütend riss ich ihm den Wälzer aus der Hand und schmetterte ihn an die Wand.
 Sie versuchen aber auch wirklich jede Situation zu nutzen, um Produkte an den Mann zu bringen, nicht wahr?
-Der Ladenbesitzer lief rot an, weil er merkte, dass er ertappt war.
+Der Ladenbesitzer lief rot an, weil er merkte, dass er ertappt wurde.
 Unsere wirtschaftliche Situation ist derzeit wirklich schwierig, wissen Sie.
 "Ich werde keines Ihrer Drecksbücher kaufen", stellte ich klar.
 Kommen Sie zum Punkt.
 Wie heißt die Flüssigkeit?
 "Na gut", gab sich mein Gesprächspartner geschlagen.
 Es handelt sich um Dihydrogenmonoxid.
-Man kann es in jeder Apotheke für etwa 25 Euro pro Liter kaufen.
+Man kann es in jeder Apotheke für etwa fünfundzwanzig Euro pro Liter kaufen.
 "Na also", nickte ich zufrieden.
 Die Details interessieren mich nicht.
 Kein Wort zu niemandem, haben Sie verstanden?
@@ -1681,7 +1682,7 @@ Bartstoppeln sind wirklich praktisch, wenn man sich mal kurz kratzen muss.
 Das Problem ist bekannt, nur über Ausmaß und Relevanz herrscht Uneinigkeit.
 "Christine hat ein viel größeres Planschbecken", erzählt Marie.
 Die Beeren sind noch nicht reif.
-Viele Früchte werden unreif geerntet reifen während des Transportes nach.
+Viele Früchte werden unreif geerntet und reifen während des Transportes nach.
 Wenn dir langweilig ist, kannst du mal in den Garten gehen und Johannisbeeren pflücken.
 Vor dem Kindergarten steht eine alte Kastanie.
 Ahornblätter sind leicht zu erkennen.
@@ -1727,7 +1728,7 @@ Wir werden von Kopf bis Fuß den ganzen Körper trainieren.
 Der Fokus liegt dabei auf der Rumpfmuskulatur.
 Am Ende werdet ihr Muskeln spüren, von denen ihr vorher gar nicht wusstet, dass ihr sie habt.
 Dein Kleinwagen bietet im Prinzip alles, was man braucht, ist aber etwas schwach auf der Brust.
-Ingrid hat so ein Wärmkissen gegen Halsschmerzen.
+Ingrid hat so ein Wärmekissen gegen Halsschmerzen.
 Bei dem Zusammenstoß hat sich Jürgen die Schulter ausgekugelt.
 Wir leben in einer Ellenbogengesellschaft.
 Für eine Hexe gehört es sich, eine Warze auf der Nase zu haben.
@@ -1754,7 +1755,7 @@ Obwohl alle Verbrecher aus Krimis wissen, dass die Polizei nach Mustern sucht, g
 Sarah, so kenne ich dich ja gar nicht!
 Und dann hat sie mich um einen Gefallen gebeten.
 Aufgeregt wedelte der Hund mit dem Schwanz.
-Aus anatomischer Sich ist ein Schwanz nur die Verlängerung der Wirbelsäule.
+Aus anatomischer Sicht ist ein Schwanz nur die Verlängerung der Wirbelsäule.
 Auch eine Giraffe hat nur sieben Halswirbel.
 Anne ist stolz darauf, dass sie zum ersten Mal einen Handstandüberschlag rückwärts geschafft hat.
 Zum Aufwärmen bilden wir einen Kreis.
@@ -1804,7 +1805,7 @@ Ein Tropfen Lötzinn auf die Spitze schützt den Lötkolben vor Oxidation.
 Bleifreies Löten ist schwieriger, aber das einzige, was in der Industrie erlaubt ist.
 Die Roboter arbeiten ohnehin so präzise, dass man keinen Unterschied in der Qualität feststellen kann.
 Du kannst dir aussuchen, ob du lieber einen Maulschlüssel oder einen Ringschlüssel nehmen willst.
-Ein Laubsäge bekommt man bereits für unter 10 Euro im Baumarkt.
+Eine Laubsäge bekommt man bereits für unter zehn Euro im Baumarkt.
 Henning sucht in dem Kästchen nach einer passenden Mutter für die Schraube.
 Mit einer zusätzlichen Unterlegscheibe passt es.
 Das Gute an dem Abisolierwerkzeug ist, dass es sich automatisch an den Durchmesser des Kabels anpasst.
@@ -1842,13 +1843,13 @@ Notfalls tut es auch eine Büroklammer.
 Alle Lose, die wir gekauft hatten, waren Nieten.
 Die abgeschnittenen Äste hatten sie zuvor alle durch den Häcksler gezogen.
 Man entschied sich offenbar dazu, Gras über die Sache wachsen zu lassen.
-Der Rasen ist so lang, dass man gefühlt alle 30 Meter den Korb des Rasenmähers leeren muss.
+Der Rasen ist so lang, dass man gefühlt alle dreißig Meter den Korb des Rasenmähers leeren muss.
 Ohne Gehörschutz bei der Arbeit wäre Klaus wohl nach zwei Wochen taub.
 Solche Ohrenschützer werden manchmal auch Micky-Mäuse genannt.
 Sandra hörte das Klingeln nicht, weil sie sich mit lauter Musik über ihre Kopfhörer zudröhnte.
 Helge spielt immer alle Zollstöcke kaputt, sobald er sie in die Finger bekommt.
 Unten im Computerladen reinigen sie die Mainboards immer mit Druckluft.
-Die Propeller heulen immer so schön auf, wenn man einen Staubsauger an sie ran hält.
+Die Propeller heulen immer so schön auf, wenn man einen Staubsauger an sie 'ran hält.
 Eigentlich sind das keine Kabelschellen, sondern Kabelbinder.
 Der Pillendreher ist ein Käfer, der für seine Körpergröße riesige Kugeln hinter sich her rollt.
 Keine Ahnung, wie ich jetzt darauf komme.
@@ -1861,20 +1862,20 @@ Ich bin nicht der Penner, für den Sie mich halten.
 Mir gehört der Laden quasi.
 Arno nahm die Artikel aus dem Einkaufswagen und verstaute sie in seinem Rucksack.
 Dann prüfte er noch den Bon.
-Dort stand: Sie sind unser hunderttausendste Kunde.
+Dort stand: Sie sind unser hunderttausendster Kunde.
 Lösen Sie einfach den unten stehenden Gewinncode ein und freuen Sie sich auf einen Karibikurlaub.
 "Gut, dass ich den Beleg nicht weggeworfen habe", schmunzelte er in sich hinein.
 Wahrscheinlich ist es Kalkül, dass die meisten die Quittung gar nicht lesen.
-Während er in Gedanken bereits die Reisetasche packte, verließ er dass Geschäft.
-Am Ausgang ertönte plötzlich die Alarmanlage, und Arno blieb verdutzt stehen.
+Während er in Gedanken bereits die Reisetasche packte, verließ er das Geschäft.
+Am Ausgang ertönte plötzlich die Alarmanlage und Arno blieb verdutzt stehen.
 Er hatte doch überhaupt nichts geklaut.
-Außerdem klang der Alarm irgendwie nach ... Wecker!
+Außerdem klang der Alarm irgendwie nach … Wecker!
 "Ah!", stöhnte er und schlug auf das lärmende Gerät neben seinem Bett.
-Auf dem Ziffernblatt stand 5:02 Uhr.
+Auf dem Ziffernblatt stand fünf Uhr zwei.
 Das heißt, er hatte zwei Minuten gebraucht, um wach zu werden.
 Das ist eigentlich ungewöhnlich, denn aus dem REM-Schlaf wacht man vergleichsweise schnell auf.
 Von allen Schlafphasen ist er dem Wachzustand am ähnlichsten.
-Das Lessing-Gymnasium besuchen mittlerweile mehr als 1000 Schüler.
+Das Lessing-Gymnasium besuchen mittlerweile mehr als tausend Schüler.
 Der Verein bietet für das kommende Jahr einen weiteren Bauch-Beine-Po-Kurs an.
 Katja ist seit dem frühen Morgen an das Buch gefesselt und hat noch nicht einmal was gegessen.
 Das schöne Wetter lädt zu einem Spaziergang ein.
@@ -1934,7 +1935,7 @@ Plötzlich hielt mir jemand eine Pistole an die Schläfe.
 Dein Weg funktioniert, führt aber von hinten durch die Brust ins Auge.
 Mit dieser Sitzhaltung holst du dir einen steifen Nacken.
 Simon hat Schweißflecken unter den Achseln.
-Seit seinem Unfall im Alter von 25 Jahren ist der ehemalige Turmspringer querschnittsgelähmt.
+Seit seinem Unfall im Alter von fünfundzwanzig Jahren ist der ehemalige Turmspringer querschnittsgelähmt.
 Was für ein tragisches Schicksal.
 Herr Kunze hat gerade eine Blinddarm-OP hinter sich.
 Carmen hat sich den kleinen Zeh am Kartenständer gestoßen.
@@ -1977,7 +1978,7 @@ Hinter dem Kühlschrank muss etwas Platz sein, damit die Luft zirkulieren kann.
 Lass uns den Brotkasten an diese Seite stellen.
 Der Behälter für den Biomüll ist unter dem Waschbecken.
 Die Spülmaschine ist fertig.
-Wenn du im Haus bist, steigt der Geschirrverbrauch jedes Mal um 200 Prozent.
+Wenn du im Haus bist, steigt der Geschirrverbrauch jedes Mal um zweihundert Prozent.
 Dafür habe ich auch die Spülmaschine ausgeräumt.
 Der Becher ist nicht spülmaschinenfest.
 Die Uhr geht falsch.
@@ -1992,12 +1993,12 @@ Ich will jetzt nur noch schlafen.
 Gute Nacht!
 Träum was schönes.
 Mein Sohn vermisst sein Kuscheltier.
-Der traumatisierte Soldat schläft nur noch mit Pistole unterm Kopfkissen.
+Der traumatisierte Soldat schläft nur noch mit Pistole unter'm Kopfkissen.
 Die Betten sind bereits bezogen.
 Niklas warf sich ein Bettlaken über und spielte Gespenst.
 Nikolai, hast du ein Taschentuch für mich?
 Eine Wickelablage muss weich und warm sein.
-Im Büro ist den ganzen Tag das Fenster auf kipp.
+Im Büro ist den ganzen Tag das Fenster auf Kipp.
 Sind wir bald da?
 Das wird noch eine Weile dauern.
 Ohne Getreide ließe sich die Welt nicht ernähren.
@@ -2005,8 +2006,8 @@ Kohlenhydrate sind besser als ihr Ruf.
 Die Werbung vermittelt einen falschen Eindruck.
 Der Gesetzesentwurf ist eine Mogelpackung.
 Erich hat ein auffällig spitzes Kinn.
-Auch beim Common Voice Projekt gilt: Jede Stimme zählt.
-Wer unterrichtet die 4c?
+Auch beim Common-Voice-Projekt gilt: Jede Stimme zählt.
+Wer unterrichtet die vier-c?
 Klassenfahrten müssen von je einer männlichen und einer weiblichen Lehrperson begleitet werden.
 Sein Verhalten trägt nicht gerade zur Deeskalation bei.
 Durch die Zwei-Klick-Lösung wird der Datenschutz verbessert.
@@ -2033,7 +2034,7 @@ Pia zog ihre Aussage nun doch zurück.
 Haben Sie schon versucht, das Gerät aus- und wieder einzuschalten?
 Wer ist die entzückende Begleitung an deiner Seite?
 Fabian kann so viele Stimmen imitieren, dass es eine Freude ist, ihm beim Vorlesen zuzuhören.
-Durch seine glaubhafte Betonung haucht der den Geschichten Leben ein.
+Durch seine glaubhafte Betonung haucht er den Geschichten Leben ein.
 "Da steht ein Einbrecher auf dem Balkon", flüsterte sie ängstlich in mein Ohr.
 Kettenfahrzeuge fahren Kurven, indem sie die Ketten unterschiedlich schnell laufen lassen.
 Du sprichst mir aus der Seele.
@@ -2048,7 +2049,7 @@ Die Gegenhypothese kann nicht widerlegt werden.
 Frank ist mit der Gesamtsituation unzufrieden.
 "Kreative Köpfe wie dich brauchen wir", ermutigte Anja ihn.
 Wohnst du etwa noch bei deinen Eltern?
-Auch Kleinvieh macht Mist.
+Kleinvieh macht auch Mist.
 Langsam begriff der Autor, dass es zu einer Sprache beinahe so viele Redewendungen wie Vokabeln gibt.
 Durch den Flux-Kompensator sind Zeitreisen überhaupt erst möglich.
 Man hat mir gesagt, dass ich noch an meiner Aussprache arbeiten muss.
@@ -2056,9 +2057,9 @@ Das sind die zu erwartenden Durchhalteparolen.
 In dieser Disziplin kann der Neuling durchaus Paroli bieten.
 Omi saß im Schaukelstuhl und strickte einen Pullover.
 Einfach nur um dem Klischee zu entsprechen.
-Die Nonne hielt ihren Zeigefinger von den geschlossenen Mund, um zu signalisieren, dass hier Schweigepflicht bestand.
+Die Nonne hielt sich ihren Zeigefinger vor den geschlossenen Mund, um zu signalisieren, dass hier Schweigepflicht bestand.
 Leider hast du nicht genau das gesagt, was da stand.
-Sie konnte sich kaum halten vor lachen.
+Sie konnte sich kaum halten vor Lachen.
 Zwei der Satelliten sind leider nicht auf der vorgesehenen Umlaufbahn.
 Friederike hatte das Fieberthermometer schon in der Hand.
 Bist du mir jetzt böse?
@@ -2074,7 +2075,7 @@ Hast du noch eine Ersatzpatrone?
 Wegen des Kopierschutzes ließ sich die Blu-ray nicht abspielen.
 "Wenn sich Netflix nur mit proprietärer Software nutzen lässt, dann eben ohne mich", sagt Hannes trotzig.
 Bei variabler Bitrate geht immer die Synchronisation zwischen Audio und Untertiteln verloren.
-Bitte nicht stören.
+Bitte nicht stören!
 Die Täterin wurde offenbar unterbrochen.
 Bei der Einsicht ihrer Akten erfuhr Kerstin einige intime Details, die die Spitzel der Stasi über sie herausgefunden hatten.
 Die Schnellrestaurant-Kette wird verdächtigt, ihre Mitarbeiter zu bespitzeln.
@@ -2093,7 +2094,7 @@ Die Lokalpresse umringt den Bürgermeister, um ein Interview von ihm zu bekommen
 Ich will ein Kind von dir!
 Dein angebliches Ultraschallgerät ist ohrenbetäubend laut.
 Also ich höre nichts.
-Manche Geräte sollten einfach nicht von Menschen konstruiert werden, die über 30 sind.
+Manche Geräte sollten einfach nicht von Menschen konstruiert werden, die über dreißig sind.
 Ludwig schreibt sich einen Spickzettel.
 Der Kampfradler besteht auf seine Vorfahrt.
 Es schüttet wie aus Eimern.
@@ -2119,7 +2120,7 @@ Das sind meine Aufzeichnungen.
 Die richtige Balance zwischen Aufmerksamkeit und Zurückhaltung zu finden, gleicht oft einem Drahtseilakt.
 Regine hat einfach kein Taktgefühl.
 Nina bringt ihre beiden Kinder in die Kita.
-Unglaublich, dass Vergewaltigung in der Ehe erst seit den 90ern strafbar ist.
+Unglaublich, dass Vergewaltigung in der Ehe erst seit den Neunzigern strafbar ist.
 Bei der Gravitation handelt es sich um eine konservative Kraft.
 Nachbar Krause beschwerte sich über den vom Balkon gefallenen Kaktus.
 Motorräder müssen laut knattern, damit sich der Fahrer wohlfühlt.
@@ -2157,7 +2158,7 @@ Funde von Biologen belegen sogar, dass es eine Art Kultur gibt, die von Generati
 Bei einer chemischen Reaktion entstehen neue Stoffe mit neuen Eigenschaften.
 Wir beobachten einen Niederschlag.
 Und jetzt alle im Chor!
-Lied Nummer 532 lässt sich besonders gut im Kanon singen.
+Lied Nummer fünfhundertzweiunddreißig lässt sich besonders gut im Kanon singen.
 Geht ihr Heiligabend in die Kirche?
 Jim ist Atheist.
 Wenn der Trecker abbiegt, schert sein Pflug weit aus.
@@ -2165,7 +2166,7 @@ Fabienne glaubt, dass sie laktoseintolerant ist.
 Sie hat doch nur wieder irgendwas im Internet gelesen.
 Wikipedia eignet sich nicht als wissenschaftliche Quelle.
 Diese Behauptung musst du besser belegen.
-Das Paper von Krause et al. wurde bereits 400 mal zitiert.
+Das Paper von Krause et al. wurde bereits vierhundertmal zitiert.
 Das macht es umso schlimmer, dass der Fehler bis heute niemandem aufgefallen ist.
 Damit gar nicht erst der Verdacht der Korruption aufkommt, sollten Sie von Anfang an mit offenen Karten spielen.
 Philosophie fällt am Donnerstag aus.
@@ -2178,7 +2179,7 @@ Das Konzept ist gut, an der Umsetzung müssen wir noch feilen.
 Es wird Sie sicher freuen, dass wir den verantwortlichen Mitarbeiter bereits gefeuert haben.
 Sie sind entlassen.
 In seinen Händen hielt Herbert seine fristlose Kündigung.
-Mit 56 Jahren einen neuen Job zu finden, ist nicht leicht.
+Mit sechsundfünfzig Jahren einen neuen Job zu finden, ist nicht leicht.
 Einige aktive Bürger pflanzen Birken und Buchen am Waldesrand an.
 Gegen Altersdiskriminierung wird nicht genug unternommen, findet Georg.
 Bei der Preisverleihung kam es zum Eklat.
@@ -2187,8 +2188,8 @@ Im Präsidium angekommen, setzte Kommissar Walter sich an seinen Schreibtisch.
 Solidarität funktioniert nur, wenn jeder in den Topf einzahlt.
 Katrin möchte die Gelegenheit nutzen, um mit potenziellen Arbeitgebern ins Gespräch zu kommen.
 Der Vergleich mit Fußballfeldern ist an dieser Stelle weder anschaulich noch hilfreich.
-Der Familienbetrieb wurde 2001 gegründet und ist seitdem stetig gewachsen.
-Nach 160 Kilometern hatten wir einen Getriebeschaden.
+Der Familienbetrieb wurde zweitausendeins gegründet und ist seitdem stetig gewachsen.
+Nach einhundertsechzig Kilometern hatten wir einen Getriebeschaden.
 Energie ist die Fähigkeit Arbeit zu leisten.
 Arbeit und Energie sind aber das Gleiche.
 Da beißt sich die Katze in den Schwanz.
@@ -2205,12 +2206,12 @@ Ist diese Technik nicht geil?
 Ja, aber jener Gleichstrommotor ist nicht bürstenlos.
 In der Fabrik muss jeglicher Funkenflug unbedingt vermieden werden.
 "Das hört sich nach einem Schaden im Kugellager an", schätzte Aaron und kratzte sich am Kinn.
-Auf Boje 149 ist ein Sensor ausgefallen.
+Auf Boje einhundertneunundvierzig ist ein Sensor ausgefallen.
 Wir schicken sofort ein Team zur Reparatur los.
 Eltern haften für ihre Kinder.
 Clara kann auf Kommando weinen.
 Das ist echt beeindruckend.
-Zwischen der theoretischen Vorhersage und dem experimentellen Nachweis von Gravitationswellen vergingen etwa 100 Jahre.
+Zwischen der theoretischen Vorhersage und dem experimentellen Nachweis von Gravitationswellen vergingen etwa hundert Jahre.
 Heute Nachmittag hält Frank einen Vortrag über Spezialeffekte in Hollywood-Filmen.
 Die Reaktion von weißem Phosphor mit Sauerstoff ist stark exotherm.
 Nein, die Kufen sind aus massivem Edelstahl.
@@ -2221,7 +2222,7 @@ Natriumchlorid ist gewöhnliches Kochsalz.
 Im Schwimmbad riecht es nach Chlor.
 Der typische Chlorgeruch entsteht erst dann, wenn Badegäste ins Becken pinkeln.
 Corinna fühlt sich vom Xenon-Licht geblendet.
-Uran-235 hat eine Halbwertszeit von über 700 Millionen Jahren.
+Uran-zweihundertfünfunddreißig hat eine Halbwertszeit von über siebenhundert Millionen Jahren.
 Dem Schurkenstaat ist es offenbar gelungen, waffenfähiges Plutonium anzureichern.
 Seine SMS an Katrin beendet Sören immer mit einem vielsagenden "hdgdl".
 Laura kreischte entsetzt, als ihr aus der Toilette eine Ratte entgegenkam.
@@ -2248,7 +2249,7 @@ Flugzeuge wurden erst dann erfolgreich, als man sich bei der Konstruktion vom Vo
 Nicht in jeder Hinsicht, aber bezüglich der Geschwindigkeit sind Flugzeuge Vögeln überlegen.
 Eine Heuschreckenplage machte die gesamte Ernte zunichte.
 Gernot ist ein wahrer Überlebenskünstler.
-Bereits zwölf mal ist er dem Tod von der Schippe gesprungen.
+Bereits zwölf Mal ist er dem Tod von der Schippe gesprungen.
 Man könnte auch sagen, er ist lebensmüde.
 Haben wir mittlerweile mehr Plastik als Fische im Meer?
 Harald wird nicht müde zu betonen, dass die Menschen tatsächlich auf dem Mond waren.
@@ -2279,7 +2280,7 @@ Dieses Motiv zieht sich wie ein roter Faden durch die ganze Geschichte.
 Notieren Sie hier, falls Sie irgendwelche Allergien oder Unverträglichkeiten haben.
 Sie reden mir zu viel.
 Reden gehört zu meinem Beruf.
-Habe Mut, dich deines Verstandes zu bedienen!
+Habe Mut, dich deines eigenen Verstandes zu bedienen!
 Wenn alle das gleiche schreien, ist stets Vorsicht geboten.
 Nach einer gewissen Zeit etabliert sich eine Hierarchie im Rudel.
 In Ihrer Stellenanzeige werben Sie mit flachen Hierarchien.
@@ -2290,8 +2291,8 @@ Bei derlei Windgeschwindigkeiten können wir den Kran nicht einsetzen.
 Damit solltet ihr gut für die Zukunft gerüstet sein.
 Die Befürchtung vor einem Dammbruch ist glücklicherweise nicht eingetreten.
 Das heißt, dass das Dorf umsonst evakuiert wurde.
-Ein Adler nutzt die Thermik der Felder um in langsamen Kreisbahnen an Höhe zu gewinnen.
-Im Sturzflug erreichen Steinadler Geschwindigkeiten von über 300 Stundenkilometern.
+Ein Adler nutzt die Thermik der Felder, um in langsamen Kreisbahnen an Höhe zu gewinnen.
+Im Sturzflug erreichen Steinadler Geschwindigkeiten von über dreihundert Stundenkilometern.
 Wenn ein Mäusebussard zupackt, sieht er den Boden und seine Beute nur ganz unscharf.
 Sein Sichtapparat ist auf große Entfernungen trainiert.
 Kann man das Video nicht nachträglich entwackeln?
@@ -2325,7 +2326,7 @@ Nehmen Sie das nicht zu persönlich.
 Du machst mich ganz wuschig.
 Lassen Sie uns ein Gedankenexperiment machen.
 Ich nehme Sie mit auf meine Reise ins Flächenland.
-Alternativ könnten wir auch den N²-dimensionalen Fall betrachten, aber so viel Abstraktionsvermögen traue ich Ihnen nicht zu.
+Alternativ könnten wir auch den N-Quadrat-dimensionalen Fall betrachten, aber so viel Abstraktionsvermögen traue ich Ihnen nicht zu.
 Hier haben wir eine ganz einfache Aufgabe zum schiefen Wurf.
 Keine Sorge: Ich rechne, Sie hören zu und glauben mir alles.
 Sie waren ein angenehmes Publikum.
@@ -2333,7 +2334,7 @@ Ruhe auf den billigen Plätzen!
 Günther ist ausgesprochen introvertiert, also verschrecken Sie ihn nicht.
 Hier sind zehn Dinge, die extravertierte Menschen nie verstehen werden.
 Die Überschrift ist reiner Clickbait.
-Unser Mathe-Lehrer kann die tollsten Beweise führen, aber nicht bis 10 zählen.
+Unser Mathe-Lehrer kann die tollsten Beweise führen, aber nicht bis zehn zählen.
 Die Menge der natürlichen Zahlen ist unendlich aber abzählbar.
 Erzähl mir mehr.
 Wo ist der Bus mit den Leuten, die das interessiert?
@@ -2431,11 +2432,11 @@ Schmeiß schon mal den Grill an.
 Wer ist hier verantwortlich für die Koordination der Rettungskräfte?
 Pfeifen Sie Ihre Leute zurück.
 Ab hier übernehmen wir die Kontrolle.
-Team 3 wird Sie ablösen.
+Team drei wird Sie ablösen.
 Dora sucht noch eine Mitfahrgelegenheit nach Kiel.
 Möchtest du ein Bier?
-Nein danke, ich muss noch fahren.
-Und einmal haben sie mich schon erwischt mit 2 Promille.
+Nein, danke, ich muss noch fahren.
+Und einmal haben sie mich schon erwischt mit zwei Promille.
 Die Verlockung war am Ende doch zu groß.
 Silja beteuerte, sie habe sich nichts vorzuwerfen.
 Was ist das denn für eine Apparatur?
@@ -2447,7 +2448,7 @@ Zora musterte den Schaffner.
 Mit einem erwartungsvollen Blick wandte sie sich mir zu.
 Weißt du, was zu tun ist?
 Marcel ist gut in Informatik.
-Der Zaubertrank macht dich für 15 Sekunden unbesiegbar.
+Der Zaubertrank macht dich für fünfzehn Sekunden unbesiegbar.
 Lou konnte sich gar nicht wieder einkriegen.
 "Ich habe dem Tod schon mehrfach ins Auge gesehen", leitete Holger zu seinen Heldenstorys über.
 "Was für ein Angeber", dachte Horst im Stillen.
@@ -2455,7 +2456,7 @@ Das Bauteil hat sich plastisch verformt.
 Das ist doch hervorragend!
 Es ist ein Wunder, dass nichts passiert ist.
 Der tickt doch nicht mehr ganz sauber.
-Die ärmste!
+Die Ärmste!
 Holger hatte eine unbeschwerte Kindheit.
 Schafft mir diesen Schnösel vom Hals.
 Männer haben auch Gefühle, auch wenn sie sie nicht immer aussprechen.
@@ -2477,7 +2478,7 @@ Die Sterne funkeln in dieser Nacht ganz besonders prachtvoll.
 Der Verteidigungsminister bezeichnete das Manöver als klugen Schachzug.
 Wie er es im Lehrgang gelernt hat, versucht Niklas das Gespräch wieder auf eine sachliche Ebene zu bringen.
 Der Lehrstuhl sucht noch einen Hiwi, der die Hausaufgaben der Erstis kontrolliert.
-Haben Sie das Vorfahrtschild nicht gesehen?
+Haben Sie das Vorfahrtsschild nicht gesehen?
 Hier gilt rechts vor links.
 Empfindest du denn auch etwas für sie?
 Der Konzern ist gigantisch.
@@ -2488,7 +2489,7 @@ Sie wollten eine bescheidene Hütte aufstellen und jetzt haben Sie einen Tempel 
 Die Wahl fällt ihr schwer.
 Nicole hat Schwierigkeiten Entscheidungen zu treffen.
 Sie schwärmt schon den ganzen Tag davon.
-Mein Opa ist 85 aber noch kerngesund.
+Mein Opa ist fünfundachtzig aber noch kerngesund.
 Das wird sich leider nicht vermeiden lassen.
 Der Kleine ist noch sehr verspielt.
 Wenn man mit dem Rücken zur Wand steht, macht man sich um solche Kleinigkeiten keinen Kopf.
@@ -2522,9 +2523,9 @@ Der Krieg wird doch nur wegen des Öls geführt.
 All die Demokratiebestrebungen sind nur vorgeschobene Gründe.
 Ein weiterer Flugzeugträger ist bereits auf dem Weg ins Krisengebiet.
 Mario ist aufgebrochen, um den Gaunern das Handwerk zu legen.
-Es gibt kein 41. Stockwerk.
+Es gibt kein einundvierzigstes Stockwerk.
 Doch gibt es.
-Ich arbeite für Sektor 7.
+Ich arbeite für Sektor sieben.
 Von dieser Abteilung habe ich noch nie gehört.
 Deine Aufgabe ist es, die Schaulustigen abzulenken.
 Schau mich nicht an wie einen Außerirdischen!
@@ -2553,7 +2554,7 @@ Am Ende wird Mario für seine Tapferkeit ausgezeichnet.
 Als der Kanzler vor die Truppe trat, salutierten die Soldaten.
 Hier sehen Sie unsere Kronjuwelen.
 Das Gebiet ist aufgrund seiner schwierigen Topologie noch nicht telemetrisch erfasst.
-Historiker datieren das Ereignis auf den 14. Juli 1743.
+Historiker datieren das Ereignis auf den vierzehnten Juli siebzehnhundertdreiundvierzig.
 Was seid ihr denn für Freaks?
 Lass uns noch die Waffenkammer besichtigen.
 Arne steht auf Science-Fiction.
@@ -2569,7 +2570,7 @@ Mein Partner hat Ladehemmungen.
 Ich muss nachladen.
 Es war ein erbitterter Kampf der Rivalen.
 Frida hatte sich mit ihrer Freundin in eine Ecke verzogen und kicherte mit ihr über irgendwas.
-Einheit 13 an Hauptquartier, wir brauchen Verstärkung, over.
+Einheit dreizehn an Hauptquartier, wir brauchen Verstärkung, over.
 Was für ein Vollpfosten.
 Julius fackelte nicht lange, sondern machte kurzen Prozess mit seinem Gegner.
 Ohne Fleiß kein Preis.
@@ -2578,7 +2579,7 @@ Was ist mit deiner Dienstuniform?
 Wie wäre es mit einem Kompromiss?
 "Ich weiß, wo ein Schatz versteckt ist", flüsterte mir mein Mithäftling ins Ohr.
 Ich bin unermesslich reich.
-Dieser einzelne Diamant ist so kostbar wie 43 Goldbarren.
+Dieser einzelne Diamant ist so kostbar wie dreiundvierzig Goldbarren.
 Dr. Schneider träumt davon, eine eigene Praxis zu eröffnen, doch noch fehlt ihm das nötige Kapital.
 Kann ich dir ein Geheimnis anvertrauen?
 Deine Tricks ziehen bei mir nicht.
@@ -2651,11 +2652,11 @@ Alle Kanonen sind feuerbereit.
 Er bekleckert sich vielleicht mit Rum, aber bestimmt nicht mit Ruhm.
 Gibt es hier Haie?
 Unser Floß kann bis zu acht Erwachsene tragen.
-Wie soll man bitte die zugelassenen 16 Personen in diesen winzigen Fahrstuhl bekommen?
+Wie soll man bitte die zugelassenen sechzehn Personen in diesen winzigen Fahrstuhl bekommen?
 Wieso ist das Blatt nicht gelocht?
 Schließlich entschloss Hugo sich, einen Brief zu verfassen.
 Auf dem Dachboden meiner kürzlich verstorbenen Urgroßmutter haben wir allerhand alten Kram gefunden.
-Darunter war auch ein Liebesbrief aus dem Jahr 1921.
+Darunter war auch ein Liebesbrief aus dem Jahr neunzehnhunderteinundzwanzig.
 Der Anblick auf die schneebedeckte Landschaft war märchenhaft.
 Was täte ich nur ohne Sie?
 Jammern nützt nichts, packen Sie lieber an, damit sich etwas ändert.
@@ -2726,7 +2727,7 @@ Wer nicht selbst entscheidet, für den entscheiden andere.
 Keine Antwort ist auch eine Antwort.
 Der Fall ist glasklar.
 Beim Soundcheck kümmert sich Adrian um die Tontechnik.
-100 Dezibel, das ist so laut wie ein Presslufthammer.
+Einhundert Dezibel, das ist so laut wie ein Presslufthammer.
 Es kommt auf die Entfernung an.
 Das Mädchen in dem lilanen Kleid heißt Annika.
 Patrick jobbt nachts an einer Tankstelle.
@@ -2748,7 +2749,7 @@ Nochmal mit Schmackes!
 Das ganze Publikum klatscht mit, leider nicht im Takt.
 Mit dem Dietrich lässt sich praktisch jede Tür öffnen.
 Ist ja stark!
-Mit dem Update vom 11. Januar hat sich die Spracherkennung merklich verbessert.
+Mit dem Update vom elften Januar hat sich die Spracherkennung merklich verbessert.
 Auf die Plätze, fertig, los!
 Weil die Kinder offenbar zu viel Werbung gesehen hatten, malten sie die Kühe lila an.
 Kommst du auch zur Party bei Jule?
@@ -2765,7 +2766,7 @@ Chantal hat bereits große Fortschritte am Keyboard gemacht.
 Mit einer Art übergroßem Hamsterrad, will das Startup das Bewegungsproblem in VR lösen.
 Woher kennst du Svenja?
 Svenja ist eine Kommilitonin von mir.
-Die dümmsten Fragen kommen mal wieder von den Lehrämtern, die sich als schlechte Schüler erwiesen haben.
+Die dümmsten Fragen kommen mal wieder von den Lehrämtlern, die sich als schlechte Schüler erwiesen haben.
 Hat euch mal jemand gesagt, dass ihr unglaublich mitteilungsbedürftig seid?
 Ich wische jetzt die Tafel, währenddessen könnt ihr reden.
 Sobald sich der Dozent zur Tafel dreht, geht das Geplapper los.
@@ -2779,7 +2780,7 @@ Das musst du aushalten.
 "Nach zwei Wochen ist es vorbei", versprach Christoph.
 Alexandra hört das Lied seit zwei Stunden in Dauerschleife.
 Hast du schon dein Seepferdchen gemacht, Alex?
-Wenn auf Bilderkennung trainierte neuronale Netze träumen, erzeugen sie kunstvolle Bilder.
+Wenn auf Bilderkennung trainierte, neuronale Netze träumen, erzeugen sie kunstvolle Bilder.
 Ich frage mich, ob neuronale Netze zur Spracherkennung beim Träumen anfangen zu sprechen.
 Wahrscheinlich wäre es eher unverständliches Gebrabbel.
 Aber man könnte wohl noch erkennen, um welche Sprache es sich handelt.
@@ -2798,7 +2799,7 @@ Aus seinem Rucksack nahm er einen Adapter von HDMI auf DVI.
 Für den Beamer brauchen wir ein VGA-Kabel.
 Kann ich mir deinen Laserpointer ausleihen?
 Die Batterie ist leer.
-Es ist eine Lithium-Knopfzelle mit 3 Volt.
+Es ist eine Lithium-Knopfzelle mit drei Volt.
 So eine müsste ich noch in Reserve haben.
 Mal sehen, was sie auf Lager hat.
 Die Schrift ist nur undeutlich zu erkennen.
@@ -2880,7 +2881,7 @@ Alwin, Nadja und Andrea spielen Verstecken.
 Wann wollte Natalie kommen?
 Doch Nele will sich nicht mit fremden Federn schmücken.
 "Das ist sehr ehrenwert", nickte Benny anerkennend.
-Mittlerweile ist das Erasmus-Programm 30 Jahre alt.
+Mittlerweile ist das Erasmus-Programm dreißig Jahre alt.
 Waldemar zog den Stöpsel.
 Um schnell Muskeln aufzubauen, ernährt Willi sich übertrieben eiweißreich.
 Er ist ein richtiger Protein-Junkie.
@@ -2893,7 +2894,7 @@ Nadja demonstriert ihre selbst erfundene Schlangenfalle.
 Schöne Grüße von Bernhard!
 "Birnen habe ich leider gerade nicht da", bedauerte Bruno.
 Konstantin ist schon mit Konrad verabredet.
-"Erstellen Sie mir eine Kopie im DIN A3 Format", bat Guido seine Sekretärin.
+"Erstellen Sie mir eine Kopie im DIN-A-drei Format", bat Guido seine Sekretärin.
 "Das muss ich unbedingt Simon zeigen", rief Heike aufgeregt.
 "Und damit sind wir auch schon am Ende der Sendung", leitete der Moderator zum nächsten Thema über.
 Zum Schluss noch eine Frage mit der Bitte um eine kurze und knackige Antwort.
@@ -2903,22 +2904,22 @@ Danielas BH passt optisch nicht zum Unterteil ihres Bikinis.
 Einen anderen hat sie nun mal nicht.
 "Die Zeit vergeht wie im Fluge", stellte Jasmin fest.
 Nahe Lichtgeschwindigkeit verlangsamt sich die Zeit.
-Wenn Sie Hin- und Rückfahrt gleichzeitig buchen, erlassen wir Ihnen 10 % der Kosten.
+Wenn Sie Hin- und Rückfahrt gleichzeitig buchen, erlassen wir Ihnen zehn Prozent der Kosten.
 Selbstverständlich übernehmen wir die Kosten für An- und Abfahrt.
 Der Versand findet nur innerhalb der EU und der Schweiz statt.
 "Dann lass uns das Meeting auf morgen verschieben", meint Marvin.
 "Das Event wird in Reutlingen stattfinden", gab Guido bekannt.
 "Ich kenne Klaas aber nur flüchtig", schränkte Tobias sogleich ein.
-Nativ werden nur C und C++ unterstützt.
+Nativ werden nur C und C-plus-plus unterstützt.
 Es gibt aber auch Portierungen auf Java und Python.
-Unsere Tiefkühltruhe hat die Energieeffizienzklasse A+++.
+Unsere Tiefkühltruhe hat die Energieeffizienzklasse A-plus-plus-plus.
 "Die Truhe müsste auch mal wieder abgetaut werden", seufzt Dietmar.
 "Den wievielten haben wir heute?", wollte Gerrit wissen.
 Die Stornogebühren sind unverschämt hoch.
 Heiner möchte den Flug stornieren.
 "Ich kann mich nicht einloggen", wendet sich Kai an den Administrator.
 Sie war stets bemüht, ihre Aufgaben in der vorgegebenen Zeit zu erledigen.
-Volker hat am 14. März Geburtstag.
+Volker hat am vierzehnten März Geburtstag.
 Wie heißt eigentlich eine männliche Krankenschwester?
 Klaas hat sich als Astronaut verkleidet.
 Wir müssen los.
@@ -2966,8 +2967,8 @@ Gerhard lebt seit siebzehn Jahren im Exil in Südamerika.
 Sie hat ihr Versprechen gebrochen.
 Versprechen kann man sich ja mal.
 Manche Gase verursachen einen wesentlich stärkeren Treibhauseffekt als Kohlendioxid.
-Deswegen rechnet man mit CO2-Äquivalenten.
-Die Emissionen sind um 900 Millionen Tonnen zurückgegangen, das entspricht einem Minus von 27 Prozent.
+Deswegen rechnet man mit CO-zwei-Äquivalenten.
+Die Emissionen sind um neunhundert Millionen Tonnen zurückgegangen, das entspricht einem Minus von siebenundzwanzig Prozent.
 Wolfgang glaubt nicht mehr an Gott.
 Ich glaube, ich falle vom Glauben ab.
 "Ob katholisch oder evangelisch ist mir nicht wichtig", erläuterte Valentina.
@@ -2981,7 +2982,7 @@ Um den Akku zu schonen und sich keiner unnötigen Strahlung auszusetzen, stellt 
 "In welchem Ressort würden Sie bevorzugt arbeiten?", fragte der Personalchef den Junior-Redakteur.
 "Du hast meine uneingeschränkte Unterstützung", versicherte Hermann.
 Fast ein Fünftel der Bevölkerung ist offline-süchtig.
-Zu diesem schockierendem Ergebnis kommt das statistische Bundesamt in seinem Abschlussbericht.
+Zu diesem schockierenden Ergebnis kommt das statistische Bundesamt in seinem Abschlussbericht.
 Die größten Streitpunkte sind noch ungeklärt.
 Eckhart suchte eine esoterische Heilerin auf.
 Überqueren Sie diese Kreuzung und biegen Sie direkt danach links ab.
