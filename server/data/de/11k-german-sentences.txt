@@ -720,7 +720,7 @@ Kennst du das Lagerfeuerlied von SpongeBob?
 Hier gibt es viele Handtaschendiebe, also seien Sie wachsam.
 Lassen Sie sich nicht von Fremden in Gespräche verwickeln.
 Dort können Sie die Bank nicht hinstellen, weil Sie sonst den Notausgang versperren.
-Der Nebel war so dicht, dass Steffen seine eigenen Hände kaum noch sehen konnte.
+Der Nebel war so dicht, dass Steven seine eigenen Hände kaum noch sehen konnte.
 Dies ist ein sehr bekanntes Beispiel einer optischen Täuschung.
 Nachts ist der Schalter der Steckdosenleiste die einzige Lichtquelle in meinem Zimmer.
 Ein Steg aus Holz führt vom Ufer ins Wasser.
@@ -977,7 +977,7 @@ Die Vergangenheit hat gezeigt, dass Prognosen oft falsch liegen.
 Die Schufa stuft ihr genaues Berechnungsmodell als Betriebsgeheimnis ein.
 Wählt der Kunde Lastschrift als Zahlart, so prüft der Verkäufer zunächst die Bonität.
 Die Abfrage bei der Auskunftei erfolgt vollautomatisch.
-Die Rotation von Gradientenfeldern beträgt stets Null.
+Die Rotation von Gradientenfeldern beträgt stets null.
 Hartmut, du wirst alt.
 Ich hoffe, dass ich auch im Alter nie so werde wie Erik.
 Merle macht sich auf zum Fahrradgeschäft, um einen neuen Schlauch zu kaufen.
@@ -1450,7 +1450,7 @@ Im Gegensatz zu Tränen und Schweiß ist Speichel nicht salzig, sonst hätte man
 Sitt als Adjektiv für nicht-durstig konnte sich noch immer nicht durchsetzen.
 Wenn mein Opa die Wände streicht, stellt er immer sein altes Radio auf und hört NDR neunzig Komma drei.
 Es hat gekracht auf der A-sieben, Neumünster Richtung Flensburg.
-Dadurch vier km Stau zwischen dem Kreuz Rendsburg und Rendsburg-Büdelsdorf.
+Dadurch vier Kilometer Stau zwischen dem Kreuz Rendsburg und Rendsburg-Büdelsdorf.
 A-zwei, zwischen Braunschweig-Watenbüttel und Braunschweig-Hafen behindern Bergungsarbeiten den Verkehr.
 In beide Richtungen ist nur eine Spur frei.
 Stau oder stockender Verkehr auf der A-drei, Würzburg Richtung Nürnberg.
@@ -1533,7 +1533,7 @@ Bequemer als mit einem Messer geht es mit einem Apfelentkerner.
 Nehmen wir Schwein, Rind oder gemischtes Hackfleisch?
 Die Frikadellen sind angebrannt.
 Da muss Manfred arbeiten, weil verkaufsoffener Sonntag ist.
-Wer keine eigenes Paar Schlittschuhe hat, kann sich vor Ort eines leihen.
+Wer keine eigenen Schlittschuhe hat, kann sich vor Ort welche leihen.
 Die Gebühr beträgt zwei Euro pro Paar.
 Justin hat einen Ohrwurm.
 Stefanie wollte uns einen Gnocchi-Auflauf machen.
@@ -1993,7 +1993,7 @@ Ich will jetzt nur noch schlafen.
 Gute Nacht!
 Träum was schönes.
 Mein Sohn vermisst sein Kuscheltier.
-Der traumatisierte Soldat schläft nur noch mit Pistole unter'm Kopfkissen.
+Der traumatisierte Soldat schläft nur noch mit Pistole unterm Kopfkissen.
 Die Betten sind bereits bezogen.
 Niklas warf sich ein Bettlaken über und spielte Gespenst.
 Nikolai, hast du ein Taschentuch für mich?
@@ -2435,7 +2435,7 @@ Ab hier übernehmen wir die Kontrolle.
 Team drei wird Sie ablösen.
 Dora sucht noch eine Mitfahrgelegenheit nach Kiel.
 Möchtest du ein Bier?
-Nein, danke, ich muss noch fahren.
+Nein, danke. Ich muss noch fahren.
 Und einmal haben sie mich schon erwischt mit zwei Promille.
 Die Verlockung war am Ende doch zu groß.
 Silja beteuerte, sie habe sich nichts vorzuwerfen.
@@ -3682,7 +3682,7 @@ Sie sieht den Wald vor lauter Bäumen nicht.
 Im Hotel bediente er sich an der Minibar.
 Den Kerl habe ich gestern an der Bar getroffen.
 Kannst du uns ein Lokal empfehlen?
-Fürs erste Date bietet sich ein öffentlicher Ort an, wie etwa ein Cafe.
+Fürs erste Date bietet sich ein öffentlicher Ort an, wie etwa ein Café.
 Um die Ecke gibt es eine Eisdiele.
 Die Dielen knarren ganz entsetzlich.
 Wann haben Sie sich an der Universität eingeschrieben?
@@ -4866,7 +4866,7 @@ Du hast das Recht auf freie Meinungsäußerung, aber nicht darauf, dass dir jema
 Werden die letzten wirklich die ersten sein?
 Unkenntnis schützt nicht vor Strafe.
 Es ist nicht das, wonach es aussieht.
-Das ist eine eins plus mit Sternchen.
+Das ist eine Eins-plus mit Sternchen.
 Wenn er eins und eins zusammenzählen kann, weiß er längst Bescheid.
 Als Neukunde bekommt man bessere Konditionen als Bestandskunden.
 Findest du?
@@ -9002,7 +9002,7 @@ Wie macht man das wieder aus?
 Darüber muss sie erstmal in Ruhe nachdenken.
 Bitte hör dir deine eigene Aufnahme an, bevor du sie abschickst.
 Dann kannst du sie problemlos noch korrigieren, sollte sie nicht stimmen.
-Was ist der vierundzwanzigsten April für ein Wochentag?
+Was ist der vierundzwanzigste April für ein Wochentag?
 Wir suchen noch Freiwillige.
 Das ist ein gut geeigneter Zeitpunkt, die Sache zu beenden.
 Ich wüsste nicht, was daran verkehrt sein soll.
